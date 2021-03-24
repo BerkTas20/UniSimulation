@@ -1,4 +1,4 @@
-# UniSimulation
+# UniversitySimulation
 University simulation with python
 
 
