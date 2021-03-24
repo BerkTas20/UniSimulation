@@ -18,3 +18,6 @@ University simulation with python
   2-Öğrencileri id(benzersiz kimlik) ile silme.
   3-Öğrenci bilgilerini değiştirme.
   4-Öğrencileri gör.
+
+I used the SQLITE database.
+SQLİTE databesesini kullandım.
